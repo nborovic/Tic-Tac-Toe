@@ -1,0 +1,12 @@
+.board__row {
+  display: flex;
+}
+
+.row__square {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  outline: 1px solid #000;
+}
